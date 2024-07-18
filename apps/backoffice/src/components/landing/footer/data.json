@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Product",
+      "items": [
+        "Overview",
+        "Features",
+        "Solutions",
+        "Tutorials",
+        "Pricing",
+        "Releases"
+      ]
+    },
+    {
+      "title": "Company",
+      "items": ["About us", "Careers", "Press", "News", "Media kit", "Contact"]
+    },
+    {
+      "title": "Resources",
+      "items": [
+        "Blog",
+        "Newsletter",
+        "Events",
+        "Help centre",
+        "Tutorials",
+        "Support"
+      ]
+    },
+    {
+      "title": "Social",
+      "items": [
+        "Twitter",
+        "LinkedIn",
+        "Facebook",
+        "GitHub",
+        "AngelList",
+        "Dribbble"
+      ]
+    },
+    {
+      "title": "Legal",
+      "items": ["Terms", "Privacy", "Cookies", "Licenses", "Settings", "Contact"]
+    },
+    {
+      "title": "Get the app",
+      "items": [
+        "https://festivaleureka.ca/wp-content/uploads/2024/05/get-it-on-google-play-badge.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Download_on_the_App_Store_Badge.svg/2560px-Download_on_the_App_Store_Badge.svg.png"
+      ]
+    }
+  ]
